@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BloodDonationApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="button_login">Log In</string>
+    <string name="fullName">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="bloodType">Blood Type</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register">Register as Donor</string>
+</resources>
