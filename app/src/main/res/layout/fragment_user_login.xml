@@ -43,7 +43,8 @@
             app:layout_constraintHorizontal_bias="0.502"
             app:layout_constraintStart_toStartOf="@+id/email"
             app:layout_constraintTop_toBottomOf="@+id/email"
-            tools:ignore="SpeakableTextPresentCheck" />
+            tools:ignore="SpeakableTextPresentCheck"
+            android:autofillHints="" />
 
         <TextView
             android:id="@+id/labelPassword"
@@ -67,7 +68,8 @@
             app:layout_constraintEnd_toEndOf="@+id/labelPassword"
             app:layout_constraintStart_toStartOf="@+id/labelPassword"
             app:layout_constraintTop_toBottomOf="@+id/labelPassword"
-            tools:ignore="SpeakableTextPresentCheck" />
+            tools:ignore="SpeakableTextPresentCheck"
+            android:autofillHints="" />
 
         <Button
             android:id="@+id/btnLogin"
